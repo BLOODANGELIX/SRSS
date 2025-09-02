@@ -7,6 +7,8 @@ Solo con la funcion int, se covierte el hexadecimal a decimal.
 61
 >>> 
 ```
+
+picoCTF{61}
 ## Notas
 Utilice CyberChef para corroborar que la conversion este bien hecha.
 

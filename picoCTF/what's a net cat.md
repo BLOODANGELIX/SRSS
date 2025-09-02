@@ -9,6 +9,8 @@ picoCTF{nEtCat_Mast3ry_d0c64587}
 
 BLOODANGELIX-picoctf@webshell:~$ 
 ```
+
+picoCTF{nEtCat_Mast3ry_d0c64587}
 ## Notas
 nc 'direccion' 'puerto': permite conectarte a una direccion a travez de un puerto.
 

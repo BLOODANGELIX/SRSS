@@ -18,6 +18,8 @@ BLOODANGELIX-picoctf@webshell:~$ nc jupiter.challenges.picoctf.org 4427 > bander
 BLOODANGELIX-picoctf@webshell:~$ cat bandera | grep picoCTF
 picoCTF{digital_plumb3r_5ea1fbd7}
 ```
+
+picoCTF{digital_plumb3r_5ea1fbd7}
 ## Notas
 'comando' | 'comando' : se llama pipe y hace que después de ejecutar el primer comando se ejecute el segundo a la derecha de la pipe.
 ## Referencia

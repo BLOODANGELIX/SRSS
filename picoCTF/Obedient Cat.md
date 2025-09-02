@@ -18,6 +18,8 @@ flag                  100%[=======================>]      34  --.-KB/s    in 0s
 BLOODANGELIX-picoctf@webshell:~$ cat flag
 picoCTF{s4n1ty_v3r1f13d_f28ac910}
 ```
+
+picoCTF{s4n1ty_v3r1f13d_f28ac910}
 ## Notas
 cat: permite mostrar el contenido del archivo.
 

@@ -26,6 +26,7 @@ picoCTF{grep_is_good_to_find_things_f77e0797}
 BLOODANGELIX-picoctf@webshell:~$ 
 ```
 
+picoCTF{grep_is_good_to_find_things_f77e0797}
 ## Notas
 wget : descargar archivos y contenido de internet.
 wc : contar la cantidad de lineas, caracteres y bytes en ese orden.
