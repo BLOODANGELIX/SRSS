@@ -1,5 +1,6 @@
 ## Descripción del reto
 
+
 ## Solución
 
 ```
