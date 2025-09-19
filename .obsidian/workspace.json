@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 1 - General Skills/binhexa.md",
+                "file": "picoCTF/picoCTF Web - parte 1/Client-side-again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "binhexa"
+              "title": "Client-side-again"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -171,9 +171,29 @@
   },
   "active": "93aa9b6d66f7466e",
   "lastOpenFiles": [
+    "Pasted image 20250918201814.png",
+    "Pasted image 20250918201734.png",
+    "picoCTF/picoCTF Web - parte 1/picobrowser.md",
+    "Evidencias/Pasted image 20250918201554.png",
+    "picoCTF/picoCTF Web - parte 1/dont-use-client-side.md",
+    "picoCTF/picoCTF Web - parte 1/logon.md",
+    "Evidencias/Pasted image 20250918201113.png",
+    "Evidencias/Pasted image 20250918200736.png",
+    "Evidencias/Pasted image 20250918200524.png",
+    "picoCTF/picoCTF Web - parte 1/Client-side-again.md",
+    "Evidencias/Pasted image 20250918200205.png",
+    "Evidencias/Pasted image 20250918195926.png",
+    "Evidencias/Pasted image 20250918195716.png",
+    "picoCTF/picoCTF Web - parte 1/where are the robots.md",
+    "picoCTF/picoCTF Web - parte 1/Insp3ct0r.md",
+    "Evidencias/Pasted image 20250917105902.png",
+    "Evidencias/Pasted image 20250917105320.png",
+    "Evidencias",
+    "Plantilla.md",
+    "picoCTF/Tarea 1 - General Skills/binhexa.md",
+    "picoCTF/picoCTF Web - parte 1",
     "picoCTF/Tarea 1 - General Skills/Binary Search.md",
     "picoCTF/Tarea 1 - General Skills/ASCII Numbers.md",
-    "picoCTF/Tarea 1 - General Skills/binhexa.md",
     "picoCTF/Tarea 1 - General Skills/Collaborative Development.md",
     "picoCTF/Tarea 1 - General Skills/Blame Game.md",
     "picoCTF/Tarea 1 - General Skills/Time Machine.md",
@@ -181,7 +201,6 @@
     "picoCTF/Tarea 1 - General Skills/Special.md",
     "picoCTF/Tarea 1 - General Skills/chrono.md",
     "picoCTF/Tarea 1 - General Skills/Permissions.md",
-    "Plantilla.md",
     "picoCTF/General Skills 3/Serpentine.md",
     "picoCTF/Tarea 1 - General Skills",
     "picoCTF/General Skills 3/PW Crack 3.md",
@@ -191,14 +210,7 @@
     "picoCTF/General Skills 3/fixme1.py.md",
     "picoCTF/General Skills 3/convertme.py.md",
     "picoCTF/General Skills 3/Codebook.md",
-    "picoCTF/General Skills 3/runme.py.md",
-    "picoCTF/General Skills 3/Super SSH.md",
-    "picoCTF/General Skills 2/useless.md",
-    "picoCTF/General Skills 2/Wave a flag.md",
-    "picoCTF/General Skills 2/Tab, Tab, Attack.md",
     "picoCTF/General Skills 3",
-    "picoCTF/General Skills 1/plumbing.md",
-    "picoCTF/General Skills 1/Warmed Up.md",
     "picoCTF/General Skills 2",
     "picoCTF/General Skills 1",
     "picoCTF"
