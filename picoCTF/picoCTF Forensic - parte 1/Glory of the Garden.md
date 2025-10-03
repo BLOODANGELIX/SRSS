@@ -22,6 +22,9 @@ BLOODANGELIX-picoctf@webshell:~$ cat garden.jpg
   ?/\qZfd4Հ<?,ϺQ\u%Kɩn~O)YҾq}}et#?njo        o+]zQOhVcK+{YIK>^0`0GֺXF<j~kVy9S 1uӲHere is a flag "picoCTF{more_than_m33ts_the_3y3eBdBd2cc}"
 BLOODANGELIX-picoctf@webshell:~$ 
 ```
+
+picoCTF{more_than_m33ts_the_3y3eBdBd2cc}
+
 ## Notas
 
 

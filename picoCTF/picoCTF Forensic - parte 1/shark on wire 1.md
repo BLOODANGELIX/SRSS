@@ -8,6 +8,8 @@ We found this [packet capture](https://jupiter.challenges.picoctf.org/static/483
 - Después utilizamos la herramienta `wireshark`, en el cual cargamos la imagen, nos vamos a Analizar -> Follow -> UDP Stream, después vamos buscando en Stream hasta encontrar la bandera.
 ![[Pasted image 20251001113031.png]]
 
+picoCTF{StaT31355_636f6e6e}
+
 ## Notas
 
 
