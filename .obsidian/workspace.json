@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTF Forensic - parte 2/shark on wire 2.md",
+                "file": "Plantilla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shark on wire 2"
+              "title": "Plantilla"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plantilla.md",
+                "file": "picoCTF/Examen parcial 1/Web/SSTI2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla"
+              "title": "SSTI2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,53 +184,53 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "93aa9b6d66f7466e",
+  "active": "024d2107fce4173a",
   "lastOpenFiles": [
-    "Evidencias/Pasted image 20251006194125.png",
-    "Evidencias/Pasted image 20251006193947.png",
-    "Evidencias/Pasted image 20251006192948.png",
-    "Evidencias/Pasted image 20251006113348.png",
-    "Evidencias/Pasted image 20251006111509.png",
-    "Evidencias/Pasted image 20251006104147.png",
-    "Evidencias/Pasted image 20251006103437.png",
-    "Evidencias/Pasted image 20251006202523.png",
-    "Evidencias/Pasted image 20251006202502.png",
-    "Evidencias/Pasted image 20251006200421.png",
-    "Evidencias/Pasted image 20251006200245.png",
-    "picoCTF/picoCTF Forensic - parte 2/m00nwalk.md",
+    "Pasted image 20251009210743.png",
+    "Pasted image 20251009210557.png",
+    "Plantilla.md",
+    "picoCTF/Examen parcial 1/Web/SSTI2.md",
+    "picoCTF/Examen parcial 1/Web/SQL Direct.md",
+    "picoCTF/Examen parcial 1/Web/Java Code Analysis.md",
+    "Pasted image 20251008235258.png",
+    "Pasted image 20251008235227.png",
+    "Pasted image 20251008235151.png",
+    "Pasted image 20251008235127.png",
+    "Pasted image 20251008234910.png",
+    "Pasted image 20251008234713.png",
+    "Pasted image 20251008234550.png",
+    "Pasted image 20251008234527.png",
+    "Pasted image 20251008234256.png",
+    "picoCTF/Examen parcial 1/Web/findme.md",
+    "picoCTF/Examen parcial 1/Web/SSTI1.md",
+    "picoCTF/Examen parcial 1/Web/Cookie Monster Secret Recipe.md",
+    "picoCTF/Examen parcial 1/Web/Bookmarklet.md",
+    "picoCTF/Examen parcial 1/General Skills/Specialer.md",
+    "picoCTF/Examen parcial 1/General Skills/SansAlpha.md",
+    "picoCTF/Examen parcial 1/General Skills/flag_shop.md",
+    "picoCTF/Examen parcial 1/General Skills/dont-you-love-banners.md",
+    "picoCTF/Examen parcial 1/General Skills/Rust fixme 3.md",
+    "picoCTF/Examen parcial 1/General Skills/Rust fixme 2.md",
+    "picoCTF/Examen parcial 1/General Skills/Rust fixme 1.md",
+    "picoCTF/Examen parcial 1/General Skills/Python Wrangling.md",
+    "picoCTF/Examen parcial 1/General Skills/HashingJobApp.md",
+    "picoCTF/Examen parcial 1/General Skills/FANTASY CTF.md",
     "picoCTF/picoCTF Forensic - parte 2/shark on wire 2.md",
+    "picoCTF/Examen parcial 1/Web",
+    "picoCTF/Examen parcial 1/General Skills",
+    "picoCTF/Examen parcial 1",
+    "picoCTF/picoCTF Forensic - parte 2/m00nwalk.md",
     "picoCTF/picoCTF Forensic - parte 2/like1000.md",
     "picoCTF/picoCTF Forensic - parte 2/c0rrupt.md",
     "picoCTF/picoCTF Forensic - parte 2/WhitePages.md",
     "picoCTF/General Skills 3/Codebook.md",
     "picoCTF/General Skills 3/convertme.py.md",
-    "picoCTF/General Skills 3/fixme1.py.md",
-    "picoCTF/General Skills 3/PW Crack 3.md",
-    "picoCTF/General Skills 3/Serpentine.md",
-    "Plantilla.md",
     "picoCTF/picoCTF Forensic - parte 2",
-    "picoCTF/Tarea 2 - Web/WebDecode.md",
-    "picoCTF/Tarea 2 - Web/Unminify.md",
-    "picoCTF/Tarea 2 - Web/SQLiLite.md",
-    "picoCTF/Tarea 2 - Web/Secrets.md",
-    "picoCTF/Tarea 2 - Web/Roboto Sans.md",
-    "picoCTF/Tarea 2 - Web/Power Cookie.md",
-    "picoCTF/Tarea 2 - Web/Local Authority.md",
-    "picoCTF/Tarea 2 - Web/IntroToBurp.md",
-    "picoCTF/Tarea 2 - Web/Inspect HTML.md",
-    "picoCTF/Tarea 2 - Web/Includes.md",
-    "picoCTF/picoCTF Forensic - parte 1/So Meta.md",
     "picoCTF/Tarea 2 - Web",
-    "picoCTF/picoCTF Forensic - parte 1/extensions.md",
-    "picoCTF/picoCTF Forensic - parte 1/What Lies Within.md",
-    "picoCTF/picoCTF Forensic - parte 1/shark on wire 1.md",
     "picoCTF/picoCTF Forensic - parte 1",
     "picoCTF/picoCTF Web - parte 4",
     "picoCTF/picoCTF Web - parte 3",
     "picoCTF/picoCTF Web - parte 2",
-    "Evidencias",
-    "picoCTF/picoCTF Web - parte 1",
-    "picoCTF/Tarea 1 - General Skills",
-    "picoCTF/General Skills 3"
+    "Evidencias"
   ]
 }
