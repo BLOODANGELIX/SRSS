@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "picoCTF/picoCTF Crypto - parte 1/interencdec.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "interencdec"
+            }
+          },
+          {
+            "id": "933c7566d4595755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Plantilla.md",
                 "mode": "source",
                 "source": false
@@ -20,23 +34,8 @@
               "icon": "lucide-file",
               "title": "Plantilla"
             }
-          },
-          {
-            "id": "93aa9b6d66f7466e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/picoCTF Forensic - parte 4/Operation Oni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Operation Oni"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,17 +183,34 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "93aa9b6d66f7466e",
+  "active": "96f37b46c89cbb8d",
   "lastOpenFiles": [
+    "Pasted image 20251021193233.png",
     "Plantilla.md",
+    "picoCTF/picoCTF Crypto - parte 1/interencdec.md",
+    "picoCTF/picoCTF Crypto - parte 1/waves over lambda.md",
+    "Pasted image 20251021192142.png",
+    "picoCTF/picoCTF Crypto - parte 1/Tapping.md",
+    "Pasted image 20251021191800.png",
+    "picoCTF/picoCTF Crypto - parte 1/la cifra de.md",
+    "Pasted image 20251021190934.png",
+    "picoCTF/picoCTF Crypto - parte 1/Easy1.md",
+    "picoCTF/picoCTF Crypto - parte 1/caesar.md",
+    "Pasted image 20251021190138.png",
+    "picoCTF/picoCTF Crypto - parte 1/The Numbers.md",
+    "Pasted image 20251021185351.png",
+    "the_numbers.png",
+    "picoCTF/picoCTF Crypto - parte 1/13.md",
+    "Pasted image 20251021184651.png",
     "picoCTF/picoCTF Forensic - parte 4/Operation Oni.md",
+    "picoCTF/picoCTF Crypto - parte 1",
+    "Evidencias/Pasted image 20251015171331.png",
     "picoCTF/picoCTF Forensic - parte 4/Operation Orchid.md",
     "picoCTF/picoCTF Forensic - parte 4/Sleuthkit Apprentice.md",
     "picoCTF/picoCTF Forensic - parte 4/Sleuthkit Intro.md",
     "picoCTF/picoCTF Forensic - parte 4/Disk, disk, sleuth!.md",
     "picoCTF/picoCTF Forensic - parte 4/Milkslap.md",
     "picoCTF/Tarea 3 - picoMini/Flag in Flame.md",
-    "picoCTF/Sin nombre",
     "Pasted image 20251015171331.png",
     "picoCTF/Tarea 3 - picoMini/Riddle Registry.md",
     "picoCTF/Tarea 3 - picoMini/Log Hunt.md",
@@ -204,29 +220,12 @@
     "picoCTF/picoCTF Forensic - parte 4",
     "picoCTF/picoCTF Forensic - parte 3/tunn3l v1s10n.md",
     "Evidencias/Pasted image 20251014144618.png",
-    "Evidencias/Pasted image 20251014142305.png",
     "picoCTF/picoCTF Forensic - parte 3/Matryoshka doll.md",
     "picoCTF/picoCTF Forensic - parte 3/WebNet1.md",
     "picoCTF/picoCTF Forensic - parte 3/WebNet0.md",
     "Sin título.md",
-    "picoCTF/picoCTF Forensic - parte 3.md",
     "picoCTF/picoCTF Forensic - parte 3",
     "Sin nombre",
-    "picoCTF/picoCTF Forensic - parte 2/c0rrupt.md",
-    "picoCTF/picoCTF Forensic - parte 2/like1000.md",
-    "picoCTF/picoCTF Forensic - parte 1/Glory of the Garden.md",
-    "picoCTF/Examen parcial 1/Web/SSTI2.md",
-    "Pasted image 20251009210743.png",
-    "Pasted image 20251009210557.png",
-    "picoCTF/Examen parcial 1/Web/SQL Direct.md",
-    "picoCTF/Examen parcial 1/Web/Java Code Analysis.md",
-    "Pasted image 20251008235258.png",
-    "Pasted image 20251008235227.png",
-    "Pasted image 20251008235151.png",
-    "Pasted image 20251008235127.png",
-    "Pasted image 20251008234910.png",
-    "picoCTF/Examen parcial 1/Web/findme.md",
-    "picoCTF/Examen parcial 1/Web/SSTI1.md",
     "picoCTF/Examen parcial 1/Web",
     "picoCTF/Examen parcial 1/General Skills",
     "picoCTF/Examen parcial 1",
