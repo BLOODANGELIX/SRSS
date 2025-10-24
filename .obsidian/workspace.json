@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTF Crypto - parte 1/interencdec.md",
+                "file": "picoCTF/picoCTF Crypto - parte 2/rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interencdec"
+              "title": "rsa-pop-quiz"
             }
           },
           {
@@ -185,9 +185,11 @@
   },
   "active": "96f37b46c89cbb8d",
   "lastOpenFiles": [
-    "Pasted image 20251021193233.png",
     "Plantilla.md",
+    "picoCTF/picoCTF Crypto - parte 2/rsa-pop-quiz.md",
     "picoCTF/picoCTF Crypto - parte 1/interencdec.md",
+    "picoCTF/picoCTF Crypto - parte 2",
+    "Pasted image 20251021193233.png",
     "picoCTF/picoCTF Crypto - parte 1/waves over lambda.md",
     "Pasted image 20251021192142.png",
     "picoCTF/picoCTF Crypto - parte 1/Tapping.md",
@@ -219,7 +221,6 @@
     "picoCTF/Sin título.md",
     "picoCTF/picoCTF Forensic - parte 4",
     "picoCTF/picoCTF Forensic - parte 3/tunn3l v1s10n.md",
-    "Evidencias/Pasted image 20251014144618.png",
     "picoCTF/picoCTF Forensic - parte 3/Matryoshka doll.md",
     "picoCTF/picoCTF Forensic - parte 3/WebNet1.md",
     "picoCTF/picoCTF Forensic - parte 3/WebNet0.md",
@@ -229,7 +230,6 @@
     "picoCTF/Examen parcial 1/Web",
     "picoCTF/Examen parcial 1/General Skills",
     "picoCTF/Examen parcial 1",
-    "picoCTF/picoCTF Forensic - parte 2",
-    "picoCTF/Tarea 2 - Web"
+    "picoCTF/picoCTF Forensic - parte 2"
   ]
 }
