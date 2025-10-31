@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 4 - Forensic/Ph4nt0m 1ntrud3r.md",
+                "file": "picoCTF/picoCTF Crypto - parte 3/miniRSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ph4nt0m 1ntrud3r"
+              "title": "miniRSA"
             }
           },
           {
@@ -185,8 +185,13 @@
   },
   "active": "96f37b46c89cbb8d",
   "lastOpenFiles": [
+    "picoCTF/picoCTF Crypto - parte 3/Mind your Ps and Qs.md",
+    "picoCTF/picoCTF Crypto - parte 3/b00tl3gRSA3.md",
+    "picoCTF/picoCTF Crypto - parte 3/b00tl3gRSA2.md",
     "Plantilla.md",
+    "picoCTF/picoCTF Crypto - parte 3/miniRSA.md",
     "picoCTF/Tarea 4 - Forensic/Ph4nt0m 1ntrud3r.md",
+    "picoCTF/picoCTF Crypto - parte 3",
     "picoCTF/Tarea 4 - Forensic/RED.md",
     "picoCTF/Tarea 4 - Forensic/Secret of the Polyglot.md",
     "Pasted image 20251025154242.png",
@@ -220,16 +225,11 @@
     "picoCTF/picoCTF Forensic - parte 4/Operation Oni.md",
     "picoCTF/picoCTF Crypto - parte 1",
     "picoCTF/picoCTF Forensic - parte 4/Operation Orchid.md",
-    "picoCTF/picoCTF Forensic - parte 4/Sleuthkit Apprentice.md",
-    "picoCTF/picoCTF Forensic - parte 4/Sleuthkit Intro.md",
-    "picoCTF/picoCTF Forensic - parte 4/Disk, disk, sleuth!.md",
-    "picoCTF/picoCTF Forensic - parte 4/Milkslap.md",
     "picoCTF/Tarea 3 - picoMini",
     "picoCTF/picoCTF Forensic - parte 4",
     "picoCTF/picoCTF Forensic - parte 3",
     "Sin nombre",
     "picoCTF/Examen parcial 1/Web",
-    "picoCTF/Examen parcial 1/General Skills",
-    "picoCTF/Examen parcial 1"
+    "picoCTF/Examen parcial 1/General Skills"
   ]
 }

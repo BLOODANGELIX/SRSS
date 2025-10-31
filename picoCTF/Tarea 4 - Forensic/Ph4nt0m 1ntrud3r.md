@@ -3,7 +3,7 @@ A digital ghost has breached my defenses, and my sensitive data has been stolen!
 
 ## Solución
 
-```
+```bash 
 ┌──(kali㉿kali)-[~/picoCTF/Forensic/tarea_3]
 └─$ wget https://challenge-files.picoctf.net/c_verbal_sleep/45a9df82c8f05fd74b8547d157ae6b1be6ba783a2bad55c6f8c664e4609d88ac/myNetworkTraffic.pcap
 --2025-10-25 17:51:02--  https://challenge-files.picoctf.net/c_verbal_sleep/45a9df82c8f05fd74b8547d157ae6b1be6ba783a2bad55c6f8c664e4609d88ac/myNetworkTraffic.pcap
