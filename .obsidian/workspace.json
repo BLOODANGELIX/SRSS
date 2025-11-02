@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTF Crypto - parte 3/miniRSA.md",
+                "file": "picoCTF/picoCTF Crypto - parte 4/Flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "miniRSA"
+              "title": "Flags"
             }
           },
           {
@@ -185,11 +185,21 @@
   },
   "active": "96f37b46c89cbb8d",
   "lastOpenFiles": [
+    "Pasted image 20251102133052.png",
+    "Pasted image 20251102133045.png",
+    "Plantilla.md",
+    "picoCTF/picoCTF Crypto - parte 4/Flags.md",
+    "picoCTF/picoCTF Crypto - parte 4/ReadMyCert.md",
+    "picoCTF/picoCTF Crypto - parte 4/HideToSee.md",
+    "Pasted image 20251102132217.png",
+    "picoCTF/picoCTF Crypto - parte 4/basic-mod1.md",
+    "picoCTF/picoCTF Crypto - parte 4/Pixelated.md",
+    "Pasted image 20251102130618.png",
+    "picoCTF/picoCTF Crypto - parte 3/miniRSA.md",
+    "picoCTF/picoCTF Crypto - parte 4",
     "picoCTF/picoCTF Crypto - parte 3/Mind your Ps and Qs.md",
     "picoCTF/picoCTF Crypto - parte 3/b00tl3gRSA3.md",
     "picoCTF/picoCTF Crypto - parte 3/b00tl3gRSA2.md",
-    "Plantilla.md",
-    "picoCTF/picoCTF Crypto - parte 3/miniRSA.md",
     "picoCTF/Tarea 4 - Forensic/Ph4nt0m 1ntrud3r.md",
     "picoCTF/picoCTF Crypto - parte 3",
     "picoCTF/Tarea 4 - Forensic/RED.md",
@@ -212,24 +222,14 @@
     "picoCTF/Tarea 4 - Forensic.md",
     "picoCTF/picoCTF Crypto - parte 1/interencdec.md",
     "picoCTF/picoCTF Crypto - parte 2",
-    "Pasted image 20251021193233.png",
     "picoCTF/picoCTF Crypto - parte 1/waves over lambda.md",
-    "Pasted image 20251021192142.png",
     "picoCTF/picoCTF Crypto - parte 1/Tapping.md",
-    "Pasted image 20251021191800.png",
     "picoCTF/picoCTF Crypto - parte 1/la cifra de.md",
-    "picoCTF/picoCTF Crypto - parte 1/Easy1.md",
-    "picoCTF/picoCTF Crypto - parte 1/caesar.md",
-    "picoCTF/picoCTF Crypto - parte 1/The Numbers.md",
-    "picoCTF/picoCTF Crypto - parte 1/13.md",
-    "picoCTF/picoCTF Forensic - parte 4/Operation Oni.md",
     "picoCTF/picoCTF Crypto - parte 1",
-    "picoCTF/picoCTF Forensic - parte 4/Operation Orchid.md",
     "picoCTF/Tarea 3 - picoMini",
     "picoCTF/picoCTF Forensic - parte 4",
     "picoCTF/picoCTF Forensic - parte 3",
     "Sin nombre",
-    "picoCTF/Examen parcial 1/Web",
-    "picoCTF/Examen parcial 1/General Skills"
+    "picoCTF/Examen parcial 1/Web"
   ]
 }
