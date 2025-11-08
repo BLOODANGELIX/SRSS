@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTF Crypto - parte 4/Flags.md",
+                "file": "picoCTF/Tarea 5 - Crypto/Vigenere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flags"
+              "title": "Vigenere"
             }
           },
           {
@@ -185,10 +185,27 @@
   },
   "active": "96f37b46c89cbb8d",
   "lastOpenFiles": [
-    "Pasted image 20251102133052.png",
-    "Pasted image 20251102133045.png",
+    "Pasted image 20251108130446.png",
+    "Pasted image 20251108130340.png",
+    "picoCTF/Tarea 5 - Crypto/Crack the Power.md",
+    "picoCTF/Tarea 5 - Crypto/Vigenere.md",
+    "picoCTF/Tarea 5 - Crypto/substitution2.md",
+    "Pasted image 20251108125548.png",
+    "picoCTF/Tarea 5 - Crypto/substitution1.md",
+    "Pasted image 20251108125329.png",
+    "picoCTF/Tarea 5 - Crypto/substitution0.md",
+    "Pasted image 20251108125014.png",
+    "picoCTF/Tarea 5 - Crypto/rail-fence.md",
+    "Pasted image 20251108124637.png",
+    "picoCTF/Tarea 5 - Crypto/morse-code.md",
+    "Pasted image 20251108123641.png",
+    "picoCTF/Tarea 5 - Crypto/EVEN RSA CAN BE BROKEN.md",
+    "picoCTF/Tarea 5 - Crypto/credstuff.md",
     "Plantilla.md",
     "picoCTF/picoCTF Crypto - parte 4/Flags.md",
+    "picoCTF/Tarea 5 - Crypto",
+    "Pasted image 20251102133052.png",
+    "Pasted image 20251102133045.png",
     "picoCTF/picoCTF Crypto - parte 4/ReadMyCert.md",
     "picoCTF/picoCTF Crypto - parte 4/HideToSee.md",
     "Pasted image 20251102132217.png",
@@ -204,32 +221,15 @@
     "picoCTF/picoCTF Crypto - parte 3",
     "picoCTF/Tarea 4 - Forensic/RED.md",
     "picoCTF/Tarea 4 - Forensic/Secret of the Polyglot.md",
-    "Pasted image 20251025154242.png",
-    "Pasted image 20251025154222.png",
     "picoCTF/Tarea 4 - Forensic/CanYouSee.md",
     "picoCTF/Tarea 4 - Forensic/Scan Surprise.md",
-    "Pasted image 20251025143242.png",
     "picoCTF/Tarea 4 - Forensic/hideme.md",
-    "Pasted image 20251025142406.png",
-    "picoCTF/Tarea 4 - Forensic/Redaction gone wrong.md",
-    "Pasted image 20251025141837.png",
-    "picoCTF/Tarea 4 - Forensic/St3g0.md",
-    "picoCTF/Tarea 4 - Forensic/information.md",
-    "Pasted image 20251025140959.png",
-    "Pasted image 20251025135645.png",
-    "picoCTF/picoCTF Crypto - parte 2/rsa-pop-quiz.md",
     "picoCTF/Tarea 4 - Forensic",
-    "picoCTF/Tarea 4 - Forensic.md",
-    "picoCTF/picoCTF Crypto - parte 1/interencdec.md",
     "picoCTF/picoCTF Crypto - parte 2",
-    "picoCTF/picoCTF Crypto - parte 1/waves over lambda.md",
-    "picoCTF/picoCTF Crypto - parte 1/Tapping.md",
-    "picoCTF/picoCTF Crypto - parte 1/la cifra de.md",
     "picoCTF/picoCTF Crypto - parte 1",
     "picoCTF/Tarea 3 - picoMini",
     "picoCTF/picoCTF Forensic - parte 4",
     "picoCTF/picoCTF Forensic - parte 3",
-    "Sin nombre",
-    "picoCTF/Examen parcial 1/Web"
+    "Sin nombre"
   ]
 }
