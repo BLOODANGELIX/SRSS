@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTF Reversing - parte 1/vault-door-4.md",
+                "file": "picoCTF/picoCTF Reversing - parte 2/Picker III.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vault-door-4"
+              "title": "Picker III"
             }
           },
           {
@@ -185,9 +185,17 @@
   },
   "active": "96f37b46c89cbb8d",
   "lastOpenFiles": [
-    "picoCTF/picoCTF Reversing - parte 1/vault-door-5.md",
-    "picoCTF/picoCTF Reversing - parte 1/vault-door-4.md",
+    "picoCTF/picoCTF Reversing - parte 2/Picker II.md",
+    "picoCTF/picoCTF Reversing - parte 2/Picker I.md",
+    "picoCTF/picoCTF Reversing - parte 2/Picker III.md",
     "Plantilla.md",
+    "picoCTF/picoCTF Reversing - parte 2/Picker IV.md",
+    "picoCTF/picoCTF Reversing - parte 2/timer.md",
+    "picoCTF/picoCTF Reversing - parte 2/Safe Opener 2.md",
+    "picoCTF/picoCTF Reversing - parte 2/Safe Opener.md",
+    "picoCTF/picoCTF Reversing - parte 1/vault-door-4.md",
+    "picoCTF/picoCTF Reversing - parte 2",
+    "picoCTF/picoCTF Reversing - parte 1/vault-door-5.md",
     "Pasted image 20251110195954.png",
     "Pasted image 20251110195939.png",
     "picoCTF/picoCTF Reversing - parte 1/vault-door-3.md",
@@ -216,20 +224,12 @@
     "Pasted image 20251102133052.png",
     "picoCTF/picoCTF Crypto - parte 4/ReadMyCert.md",
     "picoCTF/picoCTF Crypto - parte 4/HideToSee.md",
-    "picoCTF/picoCTF Crypto - parte 4/basic-mod1.md",
-    "picoCTF/picoCTF Crypto - parte 4/Pixelated.md",
-    "picoCTF/picoCTF Crypto - parte 3/miniRSA.md",
     "picoCTF/picoCTF Crypto - parte 4",
-    "picoCTF/picoCTF Crypto - parte 3/Mind your Ps and Qs.md",
-    "picoCTF/picoCTF Crypto - parte 3/b00tl3gRSA3.md",
-    "picoCTF/picoCTF Crypto - parte 3/b00tl3gRSA2.md",
-    "picoCTF/Tarea 4 - Forensic/Ph4nt0m 1ntrud3r.md",
     "picoCTF/picoCTF Crypto - parte 3",
     "picoCTF/Tarea 4 - Forensic",
     "picoCTF/picoCTF Crypto - parte 2",
     "picoCTF/picoCTF Crypto - parte 1",
     "picoCTF/Tarea 3 - picoMini",
-    "picoCTF/picoCTF Forensic - parte 4",
-    "picoCTF/picoCTF Forensic - parte 3"
+    "picoCTF/picoCTF Forensic - parte 4"
   ]
 }
